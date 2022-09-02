@@ -1,0 +1,5 @@
+{
+    "name": "xima/xima-typo3-meta",
+    "type": "metapackage",
+    "require": {}
+}
